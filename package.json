@@ -1,7 +1,10 @@
 {
   "name": "word-puzzle",
   "version": "0.1.0",
-  "homepage": "https://github.com/kimmykokonut/word-puzzle.git",
+  "homepage": "https://kimmykokonut.github.io/word-puzzle/",
+  "repository": {
+    "url": "git+https://github.com/kimmykokonut/word-puzzle.git"
+  },
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
