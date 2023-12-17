@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kimmykokonut/word-puzzle.git/static/css/main.fcebe51a.css",
-    "main.js": "/kimmykokonut/word-puzzle.git/static/js/main.a13f9682.js",
-    "static/media/goblin.png": "/kimmykokonut/word-puzzle.git/static/media/goblin.83b85c6aab9bde05d181.png",
-    "static/media/pizza6.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza6.caa46df6da52ec43f28d.jpeg",
-    "static/media/pizza5.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza5.2115d60a60c1ff08c752.jpeg",
-    "static/media/pizza4.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza4.77c649bf07fc8548c55f.jpeg",
-    "static/media/pizza3.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza3.5a100c6288501fc4e85e.jpeg",
-    "static/media/pizza2.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza2.f1a73836ad9407a9dec6.jpeg",
-    "static/media/pizza1.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizza1.46b6a7f728f3be3b0ff9.jpeg",
-    "static/media/pizzaSad.jpeg": "/kimmykokonut/word-puzzle.git/static/media/pizzaSad.c473da79baeccb61c4f1.jpeg",
-    "index.html": "/kimmykokonut/word-puzzle.git/index.html",
-    "main.fcebe51a.css.map": "/kimmykokonut/word-puzzle.git/static/css/main.fcebe51a.css.map",
-    "main.a13f9682.js.map": "/kimmykokonut/word-puzzle.git/static/js/main.a13f9682.js.map"
+    "main.css": "/word-puzzle/static/css/main.fcebe51a.css",
+    "main.js": "/word-puzzle/static/js/main.f42ea9bc.js",
+    "static/media/goblin.png": "/word-puzzle/static/media/goblin.83b85c6aab9bde05d181.png",
+    "static/media/pizza6.jpeg": "/word-puzzle/static/media/pizza6.caa46df6da52ec43f28d.jpeg",
+    "static/media/pizza5.jpeg": "/word-puzzle/static/media/pizza5.2115d60a60c1ff08c752.jpeg",
+    "static/media/pizza4.jpeg": "/word-puzzle/static/media/pizza4.77c649bf07fc8548c55f.jpeg",
+    "static/media/pizza3.jpeg": "/word-puzzle/static/media/pizza3.5a100c6288501fc4e85e.jpeg",
+    "static/media/pizza2.jpeg": "/word-puzzle/static/media/pizza2.f1a73836ad9407a9dec6.jpeg",
+    "static/media/pizza1.jpeg": "/word-puzzle/static/media/pizza1.46b6a7f728f3be3b0ff9.jpeg",
+    "static/media/pizzaSad.jpeg": "/word-puzzle/static/media/pizzaSad.c473da79baeccb61c4f1.jpeg",
+    "index.html": "/word-puzzle/index.html",
+    "main.fcebe51a.css.map": "/word-puzzle/static/css/main.fcebe51a.css.map",
+    "main.f42ea9bc.js.map": "/word-puzzle/static/js/main.f42ea9bc.js.map"
   },
   "entrypoints": [
     "static/css/main.fcebe51a.css",
-    "static/js/main.a13f9682.js"
+    "static/js/main.f42ea9bc.js"
   ]
 }
